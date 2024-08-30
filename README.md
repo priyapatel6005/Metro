@@ -1,6 +1,6 @@
 # Metro
 
-Material Design music player for Android music lovers
+Material Design music player for Android music lovers right
 
 ## Downloads
 
